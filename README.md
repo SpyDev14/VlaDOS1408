@@ -1,4 +1,4 @@
-VlaDOS1408 (Video_Kompany)
+Video_Kompany
 Обо мне: Я простой студент, 16 лет от роду. Увлекаюсь программированием и разработкой SS14 (На самом деле я ничего там делать не умею, просто делаю вид типо умный)
 Контакты:
 - YT: https://www.youtube.com/channel/UCAjNOMMdIevu8u90ffIPHpQ
