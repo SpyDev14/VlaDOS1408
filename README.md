@@ -13,7 +13,7 @@ aka `Video Kompany`, `VlaDOS1408`, `Spy`, etc.
 Я бы их тут расписал, но вы можете просто посмотреть на них в репозитории. В основном, я занимался этим в качестве хобби.
 
 ## Мои PR-ы
-#### Nuclear 14 <- Space Station 14
+#### Nuclear 14 (fork)
 1. [Подправил локализацию](https://github.com/Corvax-Frontier/nuclear-14/commit/60e1aeefb13d6b989c60e4286828405e399c5388)
 2. [Добавил новые рецепты крафта, добавил кожу и возможность рвать плащи на кожу](https://github.com/Vault-Overseers/nuclear-14/pull/520)
 
