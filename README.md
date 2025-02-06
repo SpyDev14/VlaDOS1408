@@ -24,7 +24,7 @@ aka `Video Kompany`, `VlaDOS1408`, `Spy`, etc.
 2. [Фикс неправильной работы с изменением размера окна у консоли связи](https://github.com/space-wizards/space-station-14/pull/33655)
 3. [Небольшой фикс локализации](https://github.com/space-wizards/space-station-14/pull/33651)
 
-## Ещё не принятые PR-ы
+- ##### Ещё не принятые PR-ы
 1. [Реворк и улучшение меню консоли заказов](https://github.com/space-wizards/space-station-14/pull/33650)
 2. [Улучшение меню факса](https://github.com/space-wizards/space-station-14/pull/33653)
 3. [Улучшение работы с изменением размера меню объекта с зарядом](https://github.com/space-wizards/space-station-14/pull/33656)
