@@ -30,6 +30,6 @@ aka `Video Kompany`, `VlaDOS1408`, `Spy`, etc.
 3. [Улучшение работы с изменением размера меню объекта с зарядом](https://github.com/space-wizards/space-station-14/pull/33656)
 
 <!---
-VlaDOS1408/VlaDOS1408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SpyDev14/SpyDev14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
